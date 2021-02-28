@@ -7,7 +7,7 @@ Links at [PyPi](https://pypi.org/project/arimafd/), [GitHub](https://github.com/
 ## Numerical experiments for the anomaly detection algorithm
 
 ### Numenta Anomaly Benchmark
-The results are reproducible, but for this, you need to clone the [GitHub repository](https://github.com/numenta/NAB) and put the files from the [following Folder](./AD in NAB) into it.
+The results are reproducible, but for this, you need to clone the [GitHub repository](https://github.com/numenta/NAB) and put the files from the [following Folder](./AD&#32in&#32NAB) into it.
 
 ### Real-world data from power plant equipment
 [Folder of experiment](./AD&#32at&#32real&#32data&#32equipment)
@@ -19,4 +19,4 @@ The results are reproducible, but for this, you need to clone the [GitHub reposi
 ❗️❗️❗️**The results are not reproducible due to the lack of proprietary data in the repository.**
 
 ## Others
-[Supplementary materials, which are used in the paper](./Supplementary materials)
+[Supplementary materials, which are used in the paper](./Supplementary&#32materials)
