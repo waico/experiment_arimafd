@@ -10,7 +10,7 @@ Links at [PyPi](https://pypi.org/project/arimafd/), [GitHub](https://github.com/
 The results are reproducible, but for this, you need to clone the [GitHub repository](https://github.com/numenta/NAB) and put the files from the [following Folder](./AD in NAB) into it.
 
 ### Real-world data from power plant equipment
-[Folder of experiment](./AD at real data equipment)
+[Folder of experiment](./AD&#32at&#32real&#32data&#32equipment)
 ❗️❗️❗️**The results are not reproducible due to the lack of proprietary data in the repository.**
 
 
